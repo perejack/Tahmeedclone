@@ -1,6 +1,6 @@
 # Tahmeed Express Bus Booking
 
-Modern luxury coach bus booking website for Tahmeed Express Kenya. Users can search routes, compare VIP/Executive departures, and forward booking requests directly to WhatsApp at +254735145442.
+Modern luxury coach bus booking website for Tahmeed Express Kenya. Users can search routes, compare VIP/Executive departures, and forward booking requests directly to WhatsApp at +254735809068.
 
 This project was built with [Lovable](https://lovable.dev).
 

@@ -29,7 +29,7 @@ export const Route = createFileRoute("/")({
       {
         name: "description",
         content:
-          "Search luxury Tahmeed Express Coach routes across Kenya, Uganda, and Tanzania. VIP Sleeper & Executive departures with instant WhatsApp booking at +254 735 145 442.",
+          "Search luxury Tahmeed Express Coach routes across Kenya, Uganda, and Tanzania. VIP Sleeper & Executive departures with instant WhatsApp booking at +254 735 809 068.",
       },
       { property: "og:title", content: "Tahmeed Express — Royal Class Luxury Travel" },
       {
@@ -41,7 +41,7 @@ export const Route = createFileRoute("/")({
   component: Index,
 });
 
-const WHATSAPP_NUMBER = "254735145442";
+const WHATSAPP_NUMBER = "254735809068";
 
 function todayISO() {
   return new Date().toISOString().slice(0, 10);
@@ -127,7 +127,7 @@ function Index() {
             className="flex items-center gap-2 rounded-full bg-ink px-5 py-2.5 text-sm font-semibold text-ink-foreground transition-smooth hover:bg-primary shadow-sm hover:shadow-glow"
           >
             <MessageCircle className="h-4 w-4 text-primary-glow" />
-            <span>+254 735 145 442</span>
+            <span>+254 735 809 068</span>
           </a>
         </div>
       </header>
@@ -473,7 +473,7 @@ function Index() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              +254 735 145 442
+              +254 735 809 068
             </a>
           </p>
           <p className="text-xs text-muted-foreground">
